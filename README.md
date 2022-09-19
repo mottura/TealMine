@@ -1,4 +1,4 @@
-# TealMine
+# TealMine (Just Forked)
 
 A free Redmine 3.0+ theme written in SCSS.
 
