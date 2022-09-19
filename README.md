@@ -1,4 +1,4 @@
-# PurpleMine 2
+# TealMine
 
 A free Redmine 3.0+ theme written in SCSS.
 
